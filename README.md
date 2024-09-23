@@ -3,7 +3,21 @@
 </div>
 
 
-## Hi, Im SeungJune LEE. 👋
+### Hi, Im SeungJune LEE. 👋
+<br>
+
+## 🙋‍♂️ Introduce
+<div>
+    <p style="font-size: 22px; line-height: 1.6; text-align: center; color: #333;">
+        🌟 I am passionate about harnessing the power of <strong>cloud infrastructure</strong>, 
+        crafting <strong>robust backend solutions</strong>, and optimizing 
+        <strong>server operations</strong>. My mission is to create <strong>scalable</strong> 
+        and <strong>efficient systems</strong> that drive <strong>innovation</strong> 
+        and enhance <strong>user experiences</strong>.
+    </p>
+</div>
+
+
 <div align=center>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesj000603%2Fhit-counter&count_bg=%23191176&title_bg=%23747787&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -18,16 +32,7 @@
 
 <br>
 
- ## 🙋‍♂️ Introduce
-<div>
-    <p style="font-size: 22px; line-height: 1.6; text-align: center; color: #333;">
-        🌟 I am passionate about harnessing the power of <strong>cloud infrastructure</strong>, 
-        crafting <strong>robust backend solutions</strong>, and optimizing 
-        <strong>server operations</strong>. My mission is to create <strong>scalable</strong> 
-        and <strong>efficient systems</strong> that drive <strong>innovation</strong> 
-        and enhance <strong>user experiences</strong>.
-    </p>
-</div>
+
 
 <br>
 
