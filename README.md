@@ -2,6 +2,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0033AA&height=300&section=header&text=leesj's%20Archive&fontSize=60&fontFamily=serif&animation=fadeIn&rotate=-10&fontColor=FFFFFF" style="width: 100%; height: auto;" />
 </div>
 
+<div align=left>
+	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesj000603%2Fhit-counter&count_bg=%23191176&title_bg=%23747787&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
 ### Hi, Im SeungJune LEE. 👋
 <br>
@@ -18,11 +23,6 @@
 </div>
 
 
-<div align=center>
-	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesj000603%2Fhit-counter&count_bg=%23191176&title_bg=%23747787&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
 
 <div align="center">
   <img height="230em" width="400px" src="https://github-readme-stats.vercel.app/api?username=leesj000603&show_icons=true&hide_border=true&count_private=true" />
