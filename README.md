@@ -72,9 +72,10 @@
 
 ### IDE
 <div>
-    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=grey"/>
     <img src="https://img.shields.io/badge/VScode-0078D6?style=for-the-badge&logo=vscode&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/intelliJ-FF4C9C?style=for-the-badge&logo=intellij&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/intelliJ-FF4C9C?style=for-the-badge&logo=intellij&logoColor=white"/>
+    <img src="https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=sts&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=grey"/>
 </div>
 
 
