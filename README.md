@@ -1,5 +1,5 @@
 <div style="width: 100%; overflow: hidden;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0033AA&height=300&section=header&text=leesj's%20Archive&fontSize=60&fontFamily=serif&animation=fadeIn&rotate=-10&fontColor=FFFFFF" style="width: 100%; height: auto;" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0033AA&height=300&section=header&text=Oodls's%20Archive&fontSize=60&fontFamily=serif&animation=fadeIn&rotate=-10&fontColor=FFFFFF" style="width: 100%; height: auto;" />
 </div>
 
 <div align=left>
