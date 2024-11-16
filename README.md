@@ -77,7 +77,6 @@
 ### Virtualization
 <div>
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge"/>
 </div>
 
