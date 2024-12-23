@@ -116,9 +116,8 @@
 
 
 
+[![Video Label](http://img.youtube.com/vi/6URzfNRab9M/0.jpg)](https://youtu.be/6URzfNRab9M)
 
-
- 
 <!--
 **leesj000603/leesj000603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
