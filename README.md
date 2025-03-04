@@ -24,12 +24,9 @@
 
 
 <div align="center">
-  <img height="200em" width="400px" src="http://mazassumnida.wtf/api/generate_badge?boj=leesj000603" />
-	
-  <br>
 
   <img height="160em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oodls&layout=compact&theme=tokyonight" />
-  <img height="200em" width="400px" src="https://github-readme-stats.vercel.app/api?username=Oodls&show_icons=true&theme=tokyonight" />
+  <img height="160em" width="400px" src="https://github-readme-stats.vercel.app/api?username=Oodls&show_icons=true&theme=tokyonight" />
 
   [![rankit-badge](https://badge.rankit.run/badge?name=Oodls)](https://www.rankit.run)
 </div>
