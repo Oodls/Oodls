@@ -28,7 +28,7 @@
 	
   <br>
 
-  <img height="200em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oodls&layout=compact&theme=tokyonight" />
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oodls&layout=compact&theme=tokyonight" />
   <img height="200em" width="400px" src="https://github-readme-stats.vercel.app/api?username=Oodls&show_icons=true&theme=tokyonight" />
 
   [![rankit-badge](https://badge.rankit.run/badge?name=Oodls)](https://www.rankit.run)
