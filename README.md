@@ -25,6 +25,7 @@
 
 <div align="center">
   <img height="200em" width="400px" src="https://github-readme-stats.vercel.app/api?username=Oodls&show_icons=true&hide_border=true&count_private=true" />
+<img height="200em" width="400px" src="[https://github-readme-stats.vercel.app/api?username=Oodls&show_icons=true&hide_border=true&count_private=true](http://mazassumnida.wtf/api/generate_badge?boj=leesj000603)" />
 	
   <br>
 
