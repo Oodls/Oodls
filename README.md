@@ -10,18 +10,6 @@
 ### Hi, Im SeungJune LEE. 👋
 <br>
 
-## 🙋‍♂️ Introduce
-<div>
-    <p style="font-size: 22px; line-height: 1.6; text-align: center; color: #333;">
-        🌟 I am passionate about harnessing the power of <strong>cloud infrastructure</strong>, 
-        crafting <strong>robust backend solutions</strong>, and optimizing 
-        <strong>server operations</strong>. My mission is to create <strong>scalable</strong> 
-        and <strong>efficient systems</strong> that drive <strong>innovation</strong> 
-        and enhance <strong>user experiences</strong>.
-    </p>
-</div>
-
-
 
 <div align="center">
 
