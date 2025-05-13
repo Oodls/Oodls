@@ -7,14 +7,6 @@
 
 </div>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Oodls&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/Oodls?pet-id=700031818971583812"
-    width="600"
-    height="120"
-  />
-</a>
-
 ### Hi, Im SeungJune LEE. 👋
 <br>
   
@@ -27,6 +19,14 @@
   <img height="160em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oodls&layout=compact&theme=tokyonight" />
   <img height="160em" width="400px" src="https://github-readme-stats.vercel.app/api?username=Oodls&show_icons=true&theme=tokyonight" />
 
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Oodls&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Oodls"
+  width="600"
+  height="300"
+/>
+</a>
+
 </div>
 
 
@@ -34,20 +34,6 @@
 <br>
 <br>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Oodls&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/Oodls?pet-id=707516676545618144"
-    width="300"
-    height="120"
-  />
-</a>
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Oodls&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/Oodls?pet-id=709996834936610136"
-    width="300"
-    height="120"
-  />
 </a>
 
 ### Programming Languages
