@@ -10,6 +10,24 @@
 ### Hi, Im SeungJune LEE. 👋
 <br>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Oodls&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Oodls?pet-id=700031818971583812"
+    width="600"
+    height="120"
+  />
+</a>
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Oodls&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Oodls?pet-id=707516676545618144"
+    width="600"
+    height="120"
+  />
+</a>
+  
+  
 
 <div align="center">
 
