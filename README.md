@@ -13,11 +13,21 @@
 
 <div align="center">
 
+[![rankit-badge](https://badge.rankit.run/badge?name=Oodls)](https://www.rankit.run)
+
   <img height="160em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oodls&layout=compact&theme=tokyonight" />
   <img height="160em" width="400px" src="https://github-readme-stats.vercel.app/api?username=Oodls&show_icons=true&theme=tokyonight" />
 
-  [![rankit-badge](https://badge.rankit.run/badge?name=Oodls)](https://www.rankit.run)
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Oodls&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Oodls"
+  width="600"
+  height="300"
+/>
+</a>
 </div>
+
+
 
 <br>
 
