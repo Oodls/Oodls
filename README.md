@@ -23,10 +23,23 @@
 <div>
   
 - KwangWoon University (Water Pipeline Leakage Prediction Project, 2023.04 ~ 2023.06)
+- KwangWoon University (Collaborative Filtering based Movie Recommend Project, 2023.10 ~ 2023.12)
 - Espresso Media (Backend Intern, 2024.02 ~ 2024.06)
 - [rankit.run](https://rankit.run) - GitHub Contribution Ranking Platform (2024.02 ~ 운영 중)
 - Woori FIS Cloud Engineering Academy (Final Project Winner, 2024.07 ~ 2024.12)  
 - ITCEN (13th Open Recruitment Studeunt (Programming)), 2025.05 ~ 2025.06)
+  
+</div>
+
+<h2 align="center">📜 Certificate</h2>
+
+<div>
+  
+- 정보처리기사
+- SQLD
+- 리눅스 마스터 (2급)
+- OPIC (IH)
+  
 </div>
 
 
