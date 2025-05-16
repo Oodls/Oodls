@@ -7,6 +7,10 @@
 <br>
 
 <div align="center">
+  Rankit.run
+</div>
+
+<div align="center">
   <a href="https://www.rankit.run" target="_blank">
     <img src="https://badge.rankit.run/badge?name=Oodls" alt="rankit badge" />
   </a>
