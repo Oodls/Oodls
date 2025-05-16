@@ -18,8 +18,18 @@
 
 <br>
 
-
 <!--
+
+<div align="center">
+  <h3>Postings</h2>
+</div>
+<div align="center">
+  <img src="https://velog-github-badge.vercel.app/badge/odls_"/>  
+</div>  
+
+
+
+
 
 ### Programming Languages
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
