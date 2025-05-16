@@ -1,7 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0033AA&height=300&section=header&text=Oodls's%20Archive&fontSize=60&fontFamily=serif&animation=fadeIn&rotate=-10&fontColor=FFFFFF" style="width: 100%; height: auto;" />
 </div>
-👋 Hi, I'm SeungJune LEE
+
+<br>
+
+<br>
+
 <div align="center">
   <a href="https://www.rankit.run" target="_blank">
     <img src="https://badge.rankit.run/badge?name=Oodls" alt="rankit badge" />
