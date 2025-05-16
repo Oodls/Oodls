@@ -24,8 +24,9 @@
 
 - Espresso Media (Backend Intern, 2024.02 ~ 2024.06)  
 - Woori FIS Cloud Engineering Academy (Final Project Winner, 2024.09 ~ 2024.12)  
-- GitHub Contribution Ranking Platform (2024.11 ~ 운영 중)
+- Rankit.run - GitHub Contribution Ranking Platform (2024.02 ~ 운영 중)
 - ITCEN (13th Open Recruitment Studeunt (Programming)), 2025.05 ~ 2025.06)
+- 
 </div>
 
 
