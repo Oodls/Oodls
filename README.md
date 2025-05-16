@@ -21,6 +21,7 @@
 <h2 align="center">💼 Experience</h2>
 
 <div>
+  
 - KwangWoon University (Water Pipeline Leakage Prediction Project, 2023.04 ~ 2023.06)
 - Espresso Media (Backend Intern, 2024.02 ~ 2024.06)
 - [rankit.run](https://rankit.run) - GitHub Contribution Ranking Platform (2024.02 ~ 운영 중)
