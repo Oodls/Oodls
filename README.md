@@ -42,6 +42,13 @@
 
 
 
+<h2 align="center">🧑‍💻blog</h2>
+
+<div>
+  <img src="https://velog-github-badge.vercel.app/badge/odls_"/>
+</div>
+
+
 <!--
 
 <div align="center">
