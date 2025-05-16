@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  Rankit.run
+  <h3>Rankit.run</h2>
 </div>
 
 <div align="center">
