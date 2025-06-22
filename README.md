@@ -47,6 +47,7 @@
 - [rankit.run](https://rankit.run) - GitHub Contribution Ranking Platform (2024.02 ~ 운영 중)
 - Woori FIS Cloud Engineering Academy (Final Project Winner, 2024.07 ~ 2024.12)  
 - ITCEN (13th Open Recruitment Education, 2025.05 ~ 2025.06)
+- ITCEN ENTEC (2025.06 ~)
   
 </div>
 
