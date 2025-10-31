@@ -55,10 +55,14 @@
 
 <div>
   
-- Espresso Media (Backend Intern, 2024.02 ~ 2024.06)
+- Espresso Media (Intern, 2024.02 ~ 2024.06)
+  - 농산물 유통 플랫폼 / APC 디지털 트윈 연계
 - [rankit.run](https://rankit.run) - GitHub Contribution Ranking Platform (2024.02 ~ 운영 중)
-- Woori FIS Cloud Engineering Academy (2024.07 ~ 2024.12)  
+- Woori FIS Cloud Engineering Academy (2024.07 ~ 2024.12)
+  - project : 고가용성 하이브리드 클라우드 / 중장년층 채용 플랫폼
+  - 프로젝트 최우수상
 - ITCEN ENTEC (2025.06 ~)
+  - 현대/기아 자동차 국내서비스통합모바일 플랫폼 구축
   
 </div>
 
