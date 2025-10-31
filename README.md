@@ -60,7 +60,7 @@
 - [rankit.run](https://rankit.run) (2024.02 ~ 운영 중)
   - Github 기여도 경쟁 플랫폼 (springboot)
 - Woori FIS Cloud Engineering Academy (2024.07 ~ 2024.12)
-  - project : 고가용성 하이브리드 클라우드 / 중장년층 채용 플랫폼 (vue.js/springboot)
+  - project : 고가용성 하이브리드 클라우드 기반 중장년층 채용 플랫폼 (vue.js/springboot)
   - 프로젝트 최우수상
 - ITCEN ENTEC (2025.06 ~)
   - 현대/기아 자동차 국내서비스통합모바일 플랫폼 구축 (next.js/springboot)
