@@ -78,7 +78,7 @@
   - 2024.10 ~ 2024.12
   - vue.js / springboot
 
-- 그룹 OJT용 스케치퀴즈 drawcen
+- 아이티센 그룹 OJT용 스케치퀴즈 drawcen
   - itcen 공채 13기 교육
   - 2024.05 ~ 2024.06
   - react.js / springboot
