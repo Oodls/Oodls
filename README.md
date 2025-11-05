@@ -69,6 +69,7 @@
   - react.js / springboot
 
 - [rankit.run](https://rankit.run) Github 기여도 경쟁 플랫폼
+  - 졸업작품
   - 2024.02 ~ 2024.11 
   - springboot
   - 운영 중
