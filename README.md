@@ -61,7 +61,7 @@
 
 </div>
 
-<h2 align="center">💼 Project</h2>
+<h2 align="center">💻 Project</h2>
 
 - 농산물 유통 플랫폼 / APC 디지털 트윈 연계
   - Espresso Media
