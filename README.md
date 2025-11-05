@@ -54,28 +54,37 @@
 <h2 align="center">💼 Experience</h2>
 
 <div>
+  
 - Espresso Media (Intern, 2024.02 ~ 2024.06)
   - 농산물 유통 플랫폼 / APC 디지털 트윈 연계 (react/springboot)
+
 - ITCEN ENTEC (2025.06 ~)
   - 현대/기아 자동차 국내 서비스 통합 모바일 플랫폼 구축 (next.js/springboot)
+
 </div>
 
 <h2 align="center">💼 Project</h2>
+
 - 농산물 유통 플랫폼 / APC 디지털 트윈 연계 (react/springboot)
   - Espresso Media
   - 2024.02 ~ 2024.06
+
 - [rankit.run](https://rankit.run) Github 기여도 경쟁 플랫폼 (springboot)
   - 2024.02 ~ 운영 중
+
 - 고가용성 하이브리드 클라우드 기반 중장년층 채용 플랫폼 (vue.js/springboot)
   - Woori FIS Cloud Engineering Academy
   - 프로젝트 최우수상
   - 2024.10 ~ 2024.12
+
 - 그룹 OJT용 스케치퀴즈 drawcen (react.js/springboot)
   - itcen 공채 13기 교육
   - 2024.05 ~ 2024.06
+
 - 현대/기아자동차 국내 서비스 통합 모바일 구축
   - itcen entec
   - 2024.07 ~ 진행중
+
 <div>
   
 </div>
