@@ -101,7 +101,7 @@
 - 정보처리기사
 - SQLD
 - 리눅스 마스터 (2급)
-- OPIC (IH)
+- AWS Certified Solutions Architect
   
 </div>
 
