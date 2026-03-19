@@ -61,7 +61,7 @@
 
 <div align="center">
   <a href="https://www.credly.com/badges/24ea391a-1177-4b27-9447-0fcad3e684e0/public_url" target="_blank">
-    <img width="174" height="174" alt="AWS Certified Solutions Architect – Associate" src="https://github.com/user-attachments/assets/6274afbb-b1af-4f6f-b245-5087b0a689a6" />
+    <img width="174" height="174" alt="AWS Certified Solutions Architect – Associate" src="https://github.com/user-attachments/assets/04481c18-1885-4e59-8935-b3ca1d514c65" />
   </a>
 </div>
 
