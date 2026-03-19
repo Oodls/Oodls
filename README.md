@@ -49,6 +49,11 @@
   </a>
 </div>
 
+<a href="https://www.credly.com" target="_blank">
+  <img src="https://www.credly.com/badges/24ea391a-1177-4b27-9447-0fcad3e684e0/public_url" width="200" alt="AWS Certified Solutions Architect – Associate">
+</a>
+
+
 <br>
 
 <h2 align="center">💼 Experience</h2>
