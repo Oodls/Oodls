@@ -102,7 +102,7 @@
   - 2025.05 ~ 2025.06
   - react.js / springboot
 
-- 국내 서비스 통합 모바일 구축
+- 국내 정비 서비스 통합 모바일 구축
   - itcen entec
   - 2025.07 ~ 진행중
   - next.js / springboot
